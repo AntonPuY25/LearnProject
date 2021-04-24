@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LearnProject/static/css/main.55fabd17.chunk.css",
+    "main.js": "/LearnProject/static/js/main.c85e6ab6.chunk.js",
+    "main.js.map": "/LearnProject/static/js/main.c85e6ab6.chunk.js.map",
+    "runtime-main.js": "/LearnProject/static/js/runtime-main.93845020.js",
+    "runtime-main.js.map": "/LearnProject/static/js/runtime-main.93845020.js.map",
+    "static/js/2.c31a017b.chunk.js": "/LearnProject/static/js/2.c31a017b.chunk.js",
+    "static/js/2.c31a017b.chunk.js.map": "/LearnProject/static/js/2.c31a017b.chunk.js.map",
+    "static/js/3.08863da3.chunk.js": "/LearnProject/static/js/3.08863da3.chunk.js",
+    "static/js/3.08863da3.chunk.js.map": "/LearnProject/static/js/3.08863da3.chunk.js.map",
+    "index.html": "/LearnProject/index.html",
+    "static/css/main.55fabd17.chunk.css.map": "/LearnProject/static/css/main.55fabd17.chunk.css.map",
+    "static/js/2.c31a017b.chunk.js.LICENSE.txt": "/LearnProject/static/js/2.c31a017b.chunk.js.LICENSE.txt",
+    "static/media/kot.da7a033b.jpg": "/LearnProject/static/media/kot.da7a033b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93845020.js",
+    "static/js/2.c31a017b.chunk.js",
+    "static/css/main.55fabd17.chunk.css",
+    "static/js/main.c85e6ab6.chunk.js"
+  ]
+}
