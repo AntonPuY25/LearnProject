@@ -1,0 +1,44 @@
+/*Main container Registration*/
+.container {
+    width: 100%;
+    height: 80vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+/*REGISTRATION*/
+.container h3 {
+    text-align: center;
+}
+
+/*Input Form Registration*/
+.input {
+    margin: 5px;
+    height: 40px;
+    width: 250px;
+    border-radius: 7px;
+    border: 1px solid lightgray;
+    padding-left: 10px;
+}
+/*Button Form Registration*/
+.button {
+    text-align: center;
+}
+
+
+/*Form Error*/
+.error {
+    position: absolute;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+}
+/*Link on Sign In*/
+.signIn{
+    margin-top: 10px;
+}
